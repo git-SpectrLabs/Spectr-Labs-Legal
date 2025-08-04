@@ -1,6 +1,6 @@
 # Spectr-Labs-Legal
 
-📜 **Juridisk Policy – Spectr Groups**  
+**Juridisk Policy – Spectr Groups**  
 Gäller för samtliga produkter och tjänster under:
 - SpectrLabs  
 - SpectrOS  
@@ -9,7 +9,7 @@ Gäller för samtliga produkter och tjänster under:
 
 ---
 
-## 📌 Sammanfattning
+##  Sammanfattning
 
 Spectr Groups produkter och tjänster får endast användas för:
 - Etisk hacking i labbmiljöer
@@ -17,20 +17,20 @@ Spectr Groups produkter och tjänster får endast användas för:
 - Anonym kommunikation
 - Laglig användning enligt lokal lag
 
-❌ Olaglig användning, signalstörning, intrångstestning utan tillstånd eller övervakning av tredje part är förbjuden.
+ Olaglig användning, signalstörning, intrångstestning utan tillstånd eller övervakning av tredje part är förbjuden.
 
 ---
 
-## 📂 Fullständig policy (PDF)
+##  Fullständig policy (PDF)
 
-🔗 [Läs fullständig policy (SWE)](https://raw.githubusercontent.com/git-SpectrLabs/Spectr-Labs-Legal/main/Spectr_Legal_Policy_SWE.pdf)
+ [Läs fullständig policy (SWE)](https://github.com/git-SpectrLabs/Spectr-Labs-Legal/blob/main/POLICY_SWE.pdf)
 
 ---
 
-## 📬 Kontakt
+##  Kontakt
 
 För juridiska ärenden, support eller samarbete:  
-✉️ **legal@spectrlabs.se && info@spectrlabs.se**
+✉ **legal@spectrlabs.se && info@spectrlabs.se**
 
 ---
 
